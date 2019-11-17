@@ -1,26 +1,28 @@
 body{
-	background: #0D47A1;
+	background: #9575CD;
 	color: white;
 	transition: background 3s, color 3s;
 	margin: 140px;
 }
 a{
 	font-size: 25px;
+	margin: 250px;
 }
 h1{
 	font-size: 65px;
 	color: lightyellow;
 	text-shadow: #FC0 5px 0px 7px, 0px 0px 5em orange, 0 0 0.5em black;
-	font-family: 'Yeon Sung', cursive;
+	font-family: 'Fondamento', cursive;
 
 }
 h2{
 	font-size: 30px;
-	font-family: 'Liu Jian Mao Cao', cursive;
+	font-family: 'Noto Serif TC', serif;
 
 }
 h3{
-	font-family: 'Liu Jian Mao Cao', cursive;
+	font-family: 'Noto Serif TC', serif;
+	color: lightyellow;
 }
 img{
 	
